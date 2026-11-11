@@ -1,4 +1,4 @@
-# 🌍 Human Development Index (HDI) Prediction using Machine Learning
+# 🌍 Human Development Index (HDI) Score Prediction using Machine Learning
 
 ## 📌 Project Overview
 
